@@ -2,7 +2,7 @@
   "name": "react-page",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http:/jfleitas.github.io/react1",
+  "homepage":"https:/jfleitas.github.io/react1",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
